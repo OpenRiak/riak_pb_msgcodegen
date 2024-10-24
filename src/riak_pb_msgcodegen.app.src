@@ -6,6 +6,7 @@
    [kernel,
     stdlib
    ]},
+  {included_applications, [syntax_tools]},
   {env,[]},
   {modules, []},
 
