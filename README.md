@@ -1,7 +1,7 @@
 riak_pb_msgcodegen
 =====
 
-![Riak PB MsgCodeGen OpenRiak Status](https://github.com/OpenRiak/riak_pb_msgcodegen/actions/workflows/erlang.yml/badge.svg?branch=openriak-3.2)
+![Riak PB MsgCodeGen OpenRiak Status](https://github.com/OpenRiak/riak_pb_msgcodegen/actions/workflows/erlang.yml/badge.svg?branch=openriak-3.4)
 
 A rebar plugin
 
